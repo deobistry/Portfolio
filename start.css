@@ -1125,3 +1125,9 @@ nav a:hover::after {
 .close-btn:hover {
     color: #16e3d2;
 }
+
+@media (max-width: 480px) {
+  .scroll-down {
+    display: none;
+  }
+}
